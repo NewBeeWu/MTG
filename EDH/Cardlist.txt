@@ -1,3 +1,5 @@
 Goldfish  
 Izzet Guidgate to Sulfur Falls 0.08 2.49
 Boros Guidgate to Inspiring Vantage 1.42 2.99
+Stone Quarry to Temple of Triumpth 0.03 2.48
+Highland Lake to Steam Vents 0.73 13.5
