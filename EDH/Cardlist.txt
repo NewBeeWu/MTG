@@ -1,5 +1,6 @@
 Goldfish  
-Izzet Guidgate to Sulfur Falls 0.08 2.49
-Boros Guidgate to Inspiring Vantage 1.42 2.99
-Stone Quarry to Temple of Triumpth 0.03 2.48
-Highland Lake to Steam Vents 0.73 13.5
+Izzet Guidgate to Sulfur Falls 2.49
+Boros Guidgate to Inspiring Vantage 3.99
+Stone Quarry to Temple of Triumph 2.99
+Highland Lake to Steam Vents 27.99
+Oona's Grace to Ral, lzzet Viceroy 2.99
