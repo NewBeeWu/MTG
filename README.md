@@ -6,5 +6,5 @@ M20 now
 online   
 The war of the Spark!  
 
-Fighting!  
+Start Fighting!  
 --2019
