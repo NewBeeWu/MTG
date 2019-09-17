@@ -6,5 +6,6 @@ online
 The war of the Spark!  
 
 Start Fighting!  
-Have fun!
+Have fun!  
+Good luck!
 --2019
